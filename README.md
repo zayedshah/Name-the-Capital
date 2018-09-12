@@ -4,4 +4,4 @@ The game ask the player to name the capital of 10 countries, selected at random 
 
 The data is taken from the accompanied Data.xlsx.
 
-Credit to http://automatetheboringstuff.com/ for the idea.
+Credit: http://automatetheboringstuff.com/
